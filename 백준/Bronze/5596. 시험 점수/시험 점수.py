@@ -1,0 +1,1 @@
+print(max([sum(list(map(int,input().split(' ')))) for i in range(2)]))
